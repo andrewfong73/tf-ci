@@ -11,6 +11,6 @@ terraform {
 }
 
 resource "aws_s3_bucket" "s3_tf" {
-  bucket_prefix = andrewfong73
+  bucket_prefix = "andrewfong73-assignment3-2"
 }
 
